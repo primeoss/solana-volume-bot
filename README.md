@@ -21,3 +21,5 @@ For purchases, custom development, or support:
 **Contact Us:**
 - **Telegram:** [@primeoss](https://t.me/primeoss)
 - **Email:** [prime@oss.one](mailto:prime@oss.one)
+
+**Added jupiter api 01/06/2024**
