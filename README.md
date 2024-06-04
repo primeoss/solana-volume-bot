@@ -2,7 +2,7 @@
 
 Leverage our Solana Volume Bot to enhance your tokens' volume, market cap, and liquidity through Jupiter's low-fee and fast transaction platform. Designed for high performance and handling multiple transactions efficiently, this bot allows the use of numerous wallets for executing buy and sell orders.
 
-![Solana Volume Bot](https://github.com/primeoss/solana-volume-bot/blob/main/solana-volume-bot.png)
+![Solana Volume Bot](https://i.ibb.co/HHxbykw/solana-volume-bot.png)
 
 ### Why Choose Our Bot?
 
