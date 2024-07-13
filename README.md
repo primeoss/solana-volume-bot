@@ -24,5 +24,7 @@ For purchases, custom development, or support:
 - **Discord:** primeoss
 
 **Added jupiter api** 01/06/2024
+
 **Buy Sell Same TX** 13/07/2024
+
 We have also created a bot that can buy and sell tokens within the same transaction, making it one of the fastest solutions available.
